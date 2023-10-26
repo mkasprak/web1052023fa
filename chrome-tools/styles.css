@@ -1,0 +1,49 @@
+body{
+    background: #222b00;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#fffaa1;
+}
+
+h1{
+    font-family:fantasy;
+    color:#ff8953;
+    text-align:center;
+    
+}
+
+
+img{
+    display:block;
+    width:300px;
+    height:300px;
+    margin: 10px auto;
+    border: 6px solid #ff8953;
+    border-radius:100%;
+}
+
+figure{
+    border:2px solid #fffaa1;
+    width:350px;
+    height: 350px;
+    padding: 2px;
+    border-radius: 100%;
+    background: #e7dede;
+    margin:auto;
+}
+
+ol li{
+    color:azure;
+}
+
+ul{
+    list-style-type:disc;
+}
+
+dt{
+    color:#ff8c03;
+    font-weight:bold;
+}
+
+dd{
+    color:#d99768;
+}

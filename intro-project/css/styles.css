@@ -1,0 +1,45 @@
+body{
+    background:ivory;
+    color:rgb(35, 17, 17);
+    line-height: 2;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    min-height:150px;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    background:rgb(35,17,17);
+    color:ivory;
+    border: 2px solid rgb(35,17,17);
+    padding:10px 15px;
+    border-radius: 20px;
+    margin: 20px 5%;
+    text-decoration:none;
+}
+
+nav a:hover, .current{
+    background:ivory;
+    color:rgb(35,17,17);
+}
+
+.container{
+    margin:20px auto;
+    width: 80%;
+    overflow: auto;
+    
+}
+
+h1{
+    text-align:center;
+    
+}
+.left{
+    clear:both;
+    float:left;
+}
